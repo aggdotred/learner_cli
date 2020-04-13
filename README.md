@@ -1,3 +1,3 @@
 # Learner CLI
 
-cli based learning plan
+cli based learning plan in python 3
